@@ -3,11 +3,14 @@
 http://sevillarusers.wordpress.com
 
 
+
+## Información básica
+
 - Fecha: 30-01-2016 (sábado)
 
 - Horario: 10 a 20 horas
 
-- Lugar: [CRAI Antonio de Ulloa](http://bib.us.es/ulloa/) (Universidad de Sevilla, Campus de Reina Mercedes). [Mapa](https://www.google.com/maps/d/viewer?mid=zD-fSYAU4r6E.kLCg2WC5354c&hl=es&usp=sharing)
+- Lugar: [CRAI Antonio de Ulloa](http://bib.us.es/ulloa/) (Universidad de Sevilla, Campus de Reina Mercedes). [Mapa](https://www.google.es/maps/place/37%C2%B021'36.0%22N+5%C2%B059'12.8%22W/@37.360003,-5.9876184,18z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
 
 - Aulas TIC7 y TIC8 (tercera planta del edificio CRAI). [Detalles](http://apoyotic.us.es/reservas/craiau/infoaulas/Tercera.html).
 
