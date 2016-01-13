@@ -31,7 +31,7 @@ El número y tipo de proyectos puede cambiar en función de los asistentes.
 
 ## Inscripción
 
-Si queréis participar en el hackathon, por favor enviad un correo a Paco Rodriguez (f.rodriguez.sanc@gmail.com) **antes del viernes 22 de Enero**, indicando vuestro nombre, email, y proyecto en el que os gustaría participar. Necesitamos estos datos para poder ofrecer wifi aunque no se pertenezca a la Universidad de Sevilla.
+Si queréis participar en el hackathon, por favor enviad un correo a Paco Rodriguez (f.rodriguez.sanc@gmail.com) **antes del viernes 22 de Enero**, indicando vuestro nombre, email, y proyecto en el que os gustaría participar. Necesitamos estos datos para poder ofrecer wifi (aunque el personal universitario o del CSIC pueden acceder directamente a través de [eduroam](http://www.eduroam.es/instituciones.es.php)).
 
 
 ## Preparativos
