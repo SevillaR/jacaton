@@ -46,7 +46,9 @@ La sala cuenta con ordenadores de sobra ([ver detalles](http://apoyotic.us.es/re
 
 - git (ver instrucciones aquí: http://r-pkgs.had.co.nz/git.html)
 
-- darse de alta en [GitHub](https://github.com)
+- darse de alta en [GitHub](https://github.com). Para los principiantes con GitHub, posiblemente buena idea bajarse también el software [GitHub for desktop](https://desktop.github.com/).
+
+- WiFi: Para conectarse a la Wifi es necesario tener configurado el ordenador de manera que pueda conectarse a la red *eduroam*. Las instrucciones de configuración están [aquí](http://www.reinus.us.es/ssid-eduroam.es.html).
 
 
 El almuerzo correrá a cargo de SevillaR, gracias al patrocinio de Revolution Analytics.
