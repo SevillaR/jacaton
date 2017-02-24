@@ -1,57 +1,45 @@
-# Primer hackathon SevillaR
+# II Hackatón SevillaR
 
 http://sevillarusers.wordpress.com
 
 
+## ¿Qué es?
 
-## Información básica
-
-- Fecha: 30-01-2016 (sábado)
-
-- Horario: 10 a 20 horas
-
-- Lugar: [CRAI Antonio de Ulloa](http://bib.us.es/ulloa/) (Universidad de Sevilla, Campus de Reina Mercedes). [Mapa](https://www.google.es/maps/place/37%C2%B021'36.0%22N+5%C2%B059'12.8%22W/@37.360003,-5.9876184,18z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
-
-- Aulas TIC7 y TIC8 (tercera planta del edificio CRAI). [Detalles](http://apoyotic.us.es/reservas/craiau/infoaulas/Tercera.html).
+Un [hackatón](https://es.wikipedia.org/wiki/Hackathon) es un encuentro de programadores para desarrollar software de manera colaborativa y divertida. En nuestro caso, se trata de echar un día desarrollando código y paquetes de R a la par que aprendemos y lo pasamos bien. En el hackatón del año pasado desarrollamos un par de paquetes: [aire](https://github.com/SevillaR/aire) y [HivepodR](https://github.com/SevillaR/HivepodR).
 
 
-## Proyectos a desarrollar
+## ¿Quién puede venir?
 
-Tras la [votación de propuestas](http://doodle.com/poll/7n5seyimh3emn6tp) hemos decidido centrarnos en 3 proyectos:
+Cualquier usuario de R es bienvenido. Mientras los más avanzados pueden trabajar más en la programación de funciones, otros pueden encargarse de diseñar la funcionalidad, preparar las fuentes de datos, probar las funciones/paquetes o escribir la documentación.
 
-- **HivepodR**: interacciona con https://hivepod.io/ desde R.
-
-- **chromer**: expandir el paquete [chromer](http://bit.ly/1QuAqiT) con más fuentes de datos, análisis y visualización.
-
-- **aire**: descarga y analiza datos de [calidad del aire en Sevilla y Andalucia](http://www.juntadeandalucia.es/medioambiente/site/rediam/menuitem.04dc44281e5d53cf8ca78ca731525ea0/?vgnextoid=7e612e07c3dc4010VgnVCM1000000624e50aRCRD&vgnthirdoid=b31fb19c7acf2010VgnVCM1000001625e50aRCRD).
+Dado que el aforo es limitado, por favor apuntaros [aquí](http://doodle.com/poll/9y7t4pvwytt5nat8) si pensáis asistir.
 
 
-El número y tipo de proyectos puede cambiar en función de los asistentes.
+## ¿Cuándo?
+
+Sábado 4 de Marzo de 2017. Empezamos a las 10, y nos quedaremos hasta las 19h como máximo. 
 
 
-## Inscripción
+## ¿Dónde?
 
-Si queréis participar en el hackathon, por favor enviad un correo a Paco Rodriguez (f.rodriguez.sanc@gmail.com) **antes del viernes 22 de Enero**, indicando vuestro nombre, email, y proyecto en el que os gustaría participar. Necesitamos estos datos para poder ofrecer wifi (aunque el personal universitario o del CSIC pueden acceder directamente a través de [eduroam](http://www.eduroam.es/instituciones.es.php)).
+[CRAI Antonio de Ulloa](http://bib.us.es/ulloa/) (Universidad de Sevilla, Campus de Reina Mercedes). [Mapa](https://www.google.es/maps/place/37%C2%B021'36.0%22N+5%C2%B059'12.8%22W/@37.360003,-5.9876184,18z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
+
+Aula TIC9 (tercera planta del edificio CRAI). [Detalles](http://apoyotic.us.es/reservas/craiau/infoaulas/Tercera.html).
+
 
 
 ## Preparativos
 
-Lo principal es venir con ganas de aprender y pasarlo bien programando de manera colaborativa. Si somos capaces de terminar el día con paquetes mínimamente funcionales pues mejor que mejor.
+Lo principal es venir con ganas de aprender y pasarlo bien programando de manera colaborativa. Si traéis propuestas/ideas de paquetes que os gustaría desarrollar y somos capaces de terminar el día con paquetes mínimamente funcionales pues mejor que mejor. 
 
-La sala cuenta con ordenadores de sobra ([ver detalles](http://apoyotic.us.es/reservas/craiau/infoaulas/Tercera.html)), por lo que no es necesario traer ordenador. Pero si quieres traer tu portátil pues mucho mejor. Para el hackathon vamos a necesitar tener instalado:
+La sala cuenta con ordenadores ([ver detalles](http://apoyotic.us.es/reservas/craiau/infoaulas/Tercera.html)), por lo que no es necesario traer ordenador. Pero si quieres traer tu portátil pues mucho mejor. Para el hackatón vamos a necesitar tener instalado:
 
-- la última versión de R (3.2.3). 
+- la última versión de R (3.3.2). 
 
 - la última versión de Rstudio (recomendable pero no obligatorio)
 
-- git (ver instrucciones aquí: http://r-pkgs.had.co.nz/git.html)
+- Git y GitHub (ver instrucciones aquí: http://happygitwithr.com/)
 
-- darse de alta en [GitHub](https://github.com). Para los principiantes con GitHub, posiblemente buena idea bajarse también el software [GitHub for desktop](https://desktop.github.com/).
-
-- WiFi: Para conectarse a la Wifi es necesario tener configurado el ordenador de manera que pueda conectarse a la red *eduroam*. Las instrucciones de configuración están [aquí](http://www.reinus.us.es/ssid-eduroam.es.html).
-
-
-El almuerzo correrá a cargo de SevillaR, gracias al patrocinio de Revolution Analytics.
 
 
 ## Organizadores
@@ -63,9 +51,9 @@ http://sevillarusers.wordpress.com
 
 ## Agradecimientos
 
-- Universidad de Sevilla y personal del CRAI
+Universidad de Sevilla y personal del CRAI
 
-- Revolution Analytics
+
 
 
 
