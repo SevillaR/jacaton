@@ -1,6 +1,6 @@
 # II Hackatón SevillaR
 
-http://sevillarusers.wordpress.com
+https://github.com/SevillaR/jacaton
 
 
 ## ¿Qué es?
