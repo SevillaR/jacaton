@@ -40,6 +40,8 @@ La sala cuenta con ordenadores ([ver detalles](http://apoyotic.us.es/reservas/cr
 
 - Git y GitHub (ver instrucciones aquí: http://happygitwithr.com/)
 
+- Configuración necesaria para conectarse a la WiFi: http://www.reinus.us.es/ssid-eduroam.es.html
+
 
 
 ## Organizadores
